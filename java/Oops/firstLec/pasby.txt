@@ -1,0 +1,3 @@
+in java pass by value but when u pass objects the reference value is passed
+
+Constructor basically define that what's happen when object will be created, it is special function , that runs when u create a obj and it allocated some variables
